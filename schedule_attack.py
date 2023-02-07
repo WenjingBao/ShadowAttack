@@ -1,4 +1,5 @@
 # -*- coding: utf-8 -*-
+# 模拟影子在给定时间范围内每秒随阳光角度产生的变化
 
 import cv2
 import numpy as np

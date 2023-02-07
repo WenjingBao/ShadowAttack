@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-
+# 针对指定数据集，数字/显示，阴影形状，浓度和其他参数进行攻击
 import os
 import cv2
 import json
